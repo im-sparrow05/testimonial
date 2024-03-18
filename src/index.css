@@ -1,0 +1,10 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@media only screen and (max-width: 768px) {
+    .sparrow{
+        position: relative;
+        top:0;
+    }
+  }
